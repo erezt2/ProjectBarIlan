@@ -1,0 +1,713 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                              objdir-CWLITEARM/stm32f3_sysmem.o (__errno)
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .rodata        0x00000000       0x24 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/mask-xor2.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/mask-xor2.o
+ .bss           0x00000000        0x0 objdir-CWLITEARM/mask-xor2.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/simpleserial.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/simpleserial.o
+ .text.ss_crc   0x00000000       0x2a objdir-CWLITEARM/simpleserial.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/stm32f3_hal.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/stm32f3_hal.o
+ .text.change_err_led
+                0x00000000       0x18 objdir-CWLITEARM/stm32f3_hal.o
+ .text.change_ok_led
+                0x00000000       0x18 objdir-CWLITEARM/stm32f3_hal.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .data          0x00000000        0x4 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_NVIC_SetPriority
+                0x00000000       0x64 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_InitTick
+                0x00000000        0xc objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_IncTick
+                0x00000000        0x2 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetSysClockFreq
+                0x00000000        0x6 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000        0x6 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000        0x6 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/stm32f3_sysmem.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/stm32f3_sysmem.o
+ .bss           0x00000000        0x4 objdir-CWLITEARM/stm32f3_sysmem.o
+ .text._sbrk    0x00000000       0x34 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_info    0x00000000      0x119 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_abbrev  0x00000000       0xe1 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_loc     0x00000000       0x74 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_aranges
+                0x00000000       0x20 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_ranges  0x00000000       0x10 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_line    0x00000000      0x111 objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_str     0x00000000      0x226 objdir-CWLITEARM/stm32f3_sysmem.o
+ .comment       0x00000000       0x4e objdir-CWLITEARM/stm32f3_sysmem.o
+ .debug_frame   0x00000000       0x28 objdir-CWLITEARM/stm32f3_sysmem.o
+ .ARM.attributes
+                0x00000000       0x2e objdir-CWLITEARM/stm32f3_sysmem.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/aes.o
+ .data          0x00000000      0x20b objdir-CWLITEARM/aes.o
+ .bss           0x00000000       0xc8 objdir-CWLITEARM/aes.o
+ .text.KeyExpansion
+                0x00000000       0xac objdir-CWLITEARM/aes.o
+ .text.AddRoundKey
+                0x00000000       0x30 objdir-CWLITEARM/aes.o
+ .text.SubBytes
+                0x00000000       0x30 objdir-CWLITEARM/aes.o
+ .text.ShiftRows
+                0x00000000       0x3c objdir-CWLITEARM/aes.o
+ .text.xtime    0x00000000       0x12 objdir-CWLITEARM/aes.o
+ .text.InvSubBytes
+                0x00000000       0x34 objdir-CWLITEARM/aes.o
+ .text.InvShiftRows
+                0x00000000       0x3c objdir-CWLITEARM/aes.o
+ .text.Cipher   0x00000000       0x98 objdir-CWLITEARM/aes.o
+ .text.BlockCopy
+                0x00000000       0x14 objdir-CWLITEARM/aes.o
+ .text.AES128_ECB_indp_setkey
+                0x00000000        0xc objdir-CWLITEARM/aes.o
+ .text.AES128_ECB_indp_crypto
+                0x00000000       0x1c objdir-CWLITEARM/aes.o
+ .text.AES128_ECB_encrypt
+                0x00000000       0x28 objdir-CWLITEARM/aes.o
+ .text.AES128_ECB_decrypt
+                0x00000000      0x170 objdir-CWLITEARM/aes.o
+ .debug_info    0x00000000      0xa0d objdir-CWLITEARM/aes.o
+ .debug_abbrev  0x00000000      0x30a objdir-CWLITEARM/aes.o
+ .debug_loc     0x00000000      0x8b1 objdir-CWLITEARM/aes.o
+ .debug_aranges
+                0x00000000       0x80 objdir-CWLITEARM/aes.o
+ .debug_ranges  0x00000000      0x140 objdir-CWLITEARM/aes.o
+ .debug_line    0x00000000      0x87f objdir-CWLITEARM/aes.o
+ .debug_str     0x00000000      0x34c objdir-CWLITEARM/aes.o
+ .comment       0x00000000       0x4e objdir-CWLITEARM/aes.o
+ .debug_frame   0x00000000      0x17c objdir-CWLITEARM/aes.o
+ .ARM.attributes
+                0x00000000       0x2e objdir-CWLITEARM/aes.o
+ .text          0x00000000        0x0 objdir-CWLITEARM/aes-independant.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/aes-independant.o
+ .bss           0x00000000       0x10 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_init
+                0x00000000        0x2 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_key
+                0x00000000        0x4 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_enc
+                0x00000000        0x4 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_enc_pretrigger
+                0x00000000        0x2 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_enc_posttrigger
+                0x00000000        0x2 objdir-CWLITEARM/aes-independant.o
+ .text.aes_indep_mask
+                0x00000000        0x2 objdir-CWLITEARM/aes-independant.o
+ .debug_info    0x00000000      0x1eb objdir-CWLITEARM/aes-independant.o
+ .debug_abbrev  0x00000000      0x144 objdir-CWLITEARM/aes-independant.o
+ .debug_loc     0x00000000       0x4a objdir-CWLITEARM/aes-independant.o
+ .debug_aranges
+                0x00000000       0x40 objdir-CWLITEARM/aes-independant.o
+ .debug_ranges  0x00000000       0x30 objdir-CWLITEARM/aes-independant.o
+ .debug_line    0x00000000      0x19b objdir-CWLITEARM/aes-independant.o
+ .debug_str     0x00000000      0x295 objdir-CWLITEARM/aes-independant.o
+ .comment       0x00000000       0x4e objdir-CWLITEARM/aes-independant.o
+ .debug_frame   0x00000000       0x70 objdir-CWLITEARM/aes-independant.o
+ .ARM.attributes
+                0x00000000       0x2e objdir-CWLITEARM/aes-independant.o
+ .text          0x00000000       0x14 objdir-CWLITEARM/stm32f3_startup.o
+ .data          0x00000000        0x0 objdir-CWLITEARM/stm32f3_startup.o
+ .bss           0x00000000        0x0 objdir-CWLITEARM/stm32f3_startup.o
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x00000000        0xc f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x00000000       0x20 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .rodata        0x00000000       0x24 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000000       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x0000a000         xrw
+ROM              0x08000000         0x00040000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD objdir-CWLITEARM/mask-xor2.o
+LOAD objdir-CWLITEARM/simpleserial.o
+LOAD objdir-CWLITEARM/stm32f3_hal.o
+LOAD objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+LOAD objdir-CWLITEARM/stm32f3_sysmem.o
+LOAD objdir-CWLITEARM/aes.o
+LOAD objdir-CWLITEARM/aes-independant.o
+LOAD objdir-CWLITEARM/stm32f3_startup.o
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+START GROUP
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x2000a000                _estack = 0x2000a000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 objdir-CWLITEARM/stm32f3_startup.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x11a8
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x40 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.text*)
+ .text.get_pt   0x080001c8       0x38 objdir-CWLITEARM/mask-xor2.o
+                0x080001c8                get_pt
+ .text.startup.main
+                0x08000200       0x28 objdir-CWLITEARM/mask-xor2.o
+                0x08000200                main
+ .text.check_version
+                0x08000228        0x4 objdir-CWLITEARM/simpleserial.o
+                0x08000228                check_version
+ .text.hex_decode
+                0x0800022c       0x78 objdir-CWLITEARM/simpleserial.o
+                0x0800022c                hex_decode
+ .text.simpleserial_addcmd_flags
+                0x080002a4       0x2c objdir-CWLITEARM/simpleserial.o
+                0x080002a4                simpleserial_addcmd_flags
+ .text.simpleserial_addcmd
+                0x080002d0        0x6 objdir-CWLITEARM/simpleserial.o
+                0x080002d0                simpleserial_addcmd
+ *fill*         0x080002d6        0x2 
+ .text.simpleserial_init
+                0x080002d8       0x2c objdir-CWLITEARM/simpleserial.o
+                0x080002d8                simpleserial_init
+ .text.simpleserial_put
+                0x08000304       0x40 objdir-CWLITEARM/simpleserial.o
+                0x08000304                simpleserial_put
+ .text.ss_num_commands
+                0x08000344       0x24 objdir-CWLITEARM/simpleserial.o
+                0x08000344                ss_num_commands
+ .text.ss_get_commands
+                0x08000368       0x50 objdir-CWLITEARM/simpleserial.o
+                0x08000368                ss_get_commands
+ .text.simpleserial_get
+                0x080003b8       0xc8 objdir-CWLITEARM/simpleserial.o
+                0x080003b8                simpleserial_get
+ .text.platform_init
+                0x08000480       0x80 objdir-CWLITEARM/stm32f3_hal.o
+                0x08000480                platform_init
+ .text.init_uart
+                0x08000500       0x7c objdir-CWLITEARM/stm32f3_hal.o
+                0x08000500                init_uart
+ .text.trigger_setup
+                0x0800057c       0x48 objdir-CWLITEARM/stm32f3_hal.o
+                0x0800057c                trigger_setup
+ .text.trigger_high
+                0x080005c4        0xe objdir-CWLITEARM/stm32f3_hal.o
+                0x080005c4                trigger_high
+ .text.trigger_low
+                0x080005d2        0xe objdir-CWLITEARM/stm32f3_hal.o
+                0x080005d2                trigger_low
+ .text.getch    0x080005e0       0x34 objdir-CWLITEARM/stm32f3_hal.o
+                0x080005e0                getch
+ .text.putch    0x08000614       0x20 objdir-CWLITEARM/stm32f3_hal.o
+                0x08000614                putch
+ .text.HAL_GetTick
+                0x08000634       0x10 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000634                HAL_GetTick
+ .text.HAL_RCC_OscConfig
+                0x08000644      0x4dc objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000644                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000b20      0x14c objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000b20                HAL_RCC_ClockConfig
+ .text.HAL_GPIO_Init
+                0x08000c6c      0x188 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000c6c                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x08000df4        0xa objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000df4                HAL_GPIO_WritePin
+ *fill*         0x08000dfe        0x2 
+ .text.UART_SetConfig
+                0x08000e00      0x1e0 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000e00                UART_SetConfig
+ .text.UART_WaitOnFlagUntilTimeout
+                0x08000fe0       0x58 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08000fe0                UART_WaitOnFlagUntilTimeout
+ .text.UART_CheckIdleState
+                0x08001038       0x64 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x08001038                UART_CheckIdleState
+ .text.HAL_UART_Init
+                0x0800109c       0x56 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x0800109c                HAL_UART_Init
+ .text.HAL_UART_Transmit
+                0x080010f2       0xac objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x080010f2                HAL_UART_Transmit
+ .text.HAL_UART_Receive
+                0x0800119e       0xd6 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x0800119e                HAL_UART_Receive
+ .text.Reset_Handler
+                0x08001274       0x48 objdir-CWLITEARM/stm32f3_startup.o
+                0x08001274                Reset_Handler
+ .text.Default_Handler
+                0x080012bc        0x2 objdir-CWLITEARM/stm32f3_startup.o
+                0x080012bc                DebugMon_Handler
+                0x080012bc                HardFault_Handler
+                0x080012bc                SysTick_Handler
+                0x080012bc                PendSV_Handler
+                0x080012bc                NMI_Handler
+                0x080012bc                UsageFault_Handler
+                0x080012bc                Default_Handler
+                0x080012bc                MemManage_Handler
+                0x080012bc                SVC_Handler
+                0x080012bc                BusFault_Handler
+ *fill*         0x080012be        0x2 
+ .text.__libc_init_array
+                0x080012c0       0x48 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                0x080012c0                __libc_init_array
+ .text.memset   0x08001308       0x10 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x08001308                memset
+ *(.glue_7)
+ .glue_7        0x08001318        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08001318        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08001318        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x08001318        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001318                _init
+ .init          0x0800131c        0x8 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x08001324        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001324                _fini
+ .fini          0x08001328        0x8 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08001330                . = ALIGN (0x4)
+                0x08001330                _etext = .
+
+.vfp11_veneer   0x08001330        0x0
+ .vfp11_veneer  0x08001330        0x0 linker stubs
+
+.v4_bx          0x08001330        0x0
+ .v4_bx         0x08001330        0x0 linker stubs
+
+.iplt           0x08001330        0x0
+ .iplt          0x08001330        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x08001330       0x14
+                0x08001330                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08001330       0x10 objdir-CWLITEARM/simpleserial.o
+ .rodata        0x08001340        0x3 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ *(.rodata*)
+                0x08001344                . = ALIGN (0x4)
+ *fill*         0x08001343        0x1 
+
+.rel.dyn        0x08001344        0x0
+ .rel.iplt      0x08001344        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ARM.extab      0x08001344        0x0
+                0x08001344                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x08001344                . = ALIGN (0x4)
+
+.ARM            0x08001344        0x0
+                0x08001344                . = ALIGN (0x4)
+                0x08001344                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001344                __exidx_end = .
+                0x08001344                . = ALIGN (0x4)
+
+.preinit_array  0x08001344        0x0
+                0x08001344                . = ALIGN (0x4)
+                0x08001344                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08001344                PROVIDE (__preinit_array_end = .)
+                0x08001344                . = ALIGN (0x4)
+
+.init_array     0x08001344        0x4
+                0x08001344                . = ALIGN (0x4)
+                0x08001344                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001344        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08001348                PROVIDE (__init_array_end = .)
+                0x08001348                . = ALIGN (0x4)
+
+.fini_array     0x08001348        0x4
+                0x08001348                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001348        0x4 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x0800134c                . = ALIGN (0x4)
+                0x0800134c                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x0 load address 0x0800134c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _edata = .
+
+.igot.plt       0x20000000        0x0 load address 0x0800134c
+ .igot.plt      0x20000000        0x0 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                . = ALIGN (0x4)
+
+.bss            0x20000000      0x198 load address 0x0800134c
+                0x20000000                _sbss = .
+                0x20000000                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000000       0x1c f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x2000001c      0x104 objdir-CWLITEARM/simpleserial.o
+ .bss           0x20000120       0x70 objdir-CWLITEARM/stm32f3_hal.o
+                0x20000120                UartHandle
+ .bss           0x20000190        0x8 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                0x20000190                hal_sys_tick
+                0x20000194                uwTick
+ *(.bss*)
+ *(COMMON)
+                0x20000198                . = ALIGN (0x4)
+                0x20000198                _ebss = .
+                0x20000198                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000198      0x400 load address 0x0800134c
+                0x20000198                . = ALIGN (0x8)
+                0x20000198                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x20000198                . = (. + _Min_Heap_Size)
+                0x20000598                . = (. + _Min_Stack_Size)
+ *fill*         0x20000198      0x400 
+                0x20000598                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x2e objdir-CWLITEARM/mask-xor2.o
+ .ARM.attributes
+                0x0000007a       0x2e objdir-CWLITEARM/simpleserial.o
+ .ARM.attributes
+                0x000000a8       0x2e objdir-CWLITEARM/stm32f3_hal.o
+ .ARM.attributes
+                0x000000d6       0x2e objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .ARM.attributes
+                0x00000104       0x21 objdir-CWLITEARM/stm32f3_startup.o
+ .ARM.attributes
+                0x00000125       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000153       0x2e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000181       0x1e f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(xor2-CWLITEARM.elf elf32-littlearm)
+LOAD linker stubs
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libm.a
+LOAD f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp\libgcc.a
+
+.debug_info     0x00000000     0x3ecc
+ .debug_info    0x00000000      0x2d1 objdir-CWLITEARM/mask-xor2.o
+ .debug_info    0x000002d1      0x7b4 objdir-CWLITEARM/simpleserial.o
+ .debug_info    0x00000a85      0xe88 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_info    0x0000190d     0x25bf objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_abbrev   0x00000000      0xa6d
+ .debug_abbrev  0x00000000      0x10a objdir-CWLITEARM/mask-xor2.o
+ .debug_abbrev  0x0000010a      0x28f objdir-CWLITEARM/simpleserial.o
+ .debug_abbrev  0x00000399      0x225 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_abbrev  0x000005be      0x4af objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_loc      0x00000000     0x1f46
+ .debug_loc     0x00000000      0x123 objdir-CWLITEARM/mask-xor2.o
+ .debug_loc     0x00000123      0x60e objdir-CWLITEARM/simpleserial.o
+ .debug_loc     0x00000731      0x1a4 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_loc     0x000008d5     0x1671 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_aranges  0x00000000      0x180
+ .debug_aranges
+                0x00000000       0x28 objdir-CWLITEARM/mask-xor2.o
+ .debug_aranges
+                0x00000028       0x68 objdir-CWLITEARM/simpleserial.o
+ .debug_aranges
+                0x00000090       0x60 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_aranges
+                0x000000f0       0x90 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_ranges   0x00000000      0x3e8
+ .debug_ranges  0x00000000       0x38 objdir-CWLITEARM/mask-xor2.o
+ .debug_ranges  0x00000038      0x100 objdir-CWLITEARM/simpleserial.o
+ .debug_ranges  0x00000138       0xb0 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_ranges  0x000001e8      0x200 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_line     0x00000000     0x22c9
+ .debug_line    0x00000000      0x1f6 objdir-CWLITEARM/mask-xor2.o
+ .debug_line    0x000001f6      0x5ba objdir-CWLITEARM/simpleserial.o
+ .debug_line    0x000007b0      0x3d9 objdir-CWLITEARM/stm32f3_hal.o
+ .debug_line    0x00000b89     0x1740 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_str      0x00000000     0x12ef
+ .debug_str     0x00000000      0x251 objdir-CWLITEARM/mask-xor2.o
+                                0x29d (size before relaxing)
+ .debug_str     0x00000251       0xe9 objdir-CWLITEARM/simpleserial.o
+                                0x324 (size before relaxing)
+ .debug_str     0x0000033a      0x6f3 objdir-CWLITEARM/stm32f3_hal.o
+                                0x968 (size before relaxing)
+ .debug_str     0x00000a2d      0x8c2 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                               0x11cd (size before relaxing)
+
+.comment        0x00000000       0x4d
+ .comment       0x00000000       0x4d objdir-CWLITEARM/mask-xor2.o
+                                 0x4e (size before relaxing)
+ .comment       0x0000004d       0x4e objdir-CWLITEARM/simpleserial.o
+ .comment       0x0000004d       0x4e objdir-CWLITEARM/stm32f3_hal.o
+ .comment       0x0000004d       0x4e objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+
+.debug_frame    0x00000000      0x480
+ .debug_frame   0x00000000       0x48 objdir-CWLITEARM/mask-xor2.o
+ .debug_frame   0x00000048      0x12c objdir-CWLITEARM/simpleserial.o
+ .debug_frame   0x00000174       0xec objdir-CWLITEARM/stm32f3_hal.o
+ .debug_frame   0x00000260      0x1d4 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+ .debug_frame   0x00000434       0x2c f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x00000460       0x20 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+
+.stab           0x00000000      0x144
+ .stab          0x00000000      0x144 objdir-CWLITEARM/stm32f3_startup.o
+
+.stabstr        0x00000000       0x55
+ .stabstr       0x00000000       0x55 objdir-CWLITEARM/stm32f3_startup.o
+
+Cross Reference Table
+
+Symbol                                            File
+AES128_ECB_decrypt                                objdir-CWLITEARM/aes.o
+AES128_ECB_encrypt                                objdir-CWLITEARM/aes.o
+AES128_ECB_indp_crypto                            objdir-CWLITEARM/aes.o
+                                                  objdir-CWLITEARM/aes-independant.o
+AES128_ECB_indp_setkey                            objdir-CWLITEARM/aes.o
+                                                  objdir-CWLITEARM/aes-independant.o
+BusFault_Handler                                  objdir-CWLITEARM/stm32f3_startup.o
+DebugMon_Handler                                  objdir-CWLITEARM/stm32f3_startup.o
+Default_Handler                                   objdir-CWLITEARM/stm32f3_startup.o
+HAL_GPIO_Init                                     objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_GPIO_WritePin                                 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_GetTick                                       objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_IncTick                                       objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_InitTick                                      objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_NVIC_SetPriority                              objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_RCC_ClockConfig                               objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_RCC_GetPCLK1Freq                              objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_RCC_GetPCLK2Freq                              objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_RCC_GetSysClockFreq                           objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+HAL_RCC_OscConfig                                 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_UART_Init                                     objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_UART_Receive                                  objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HAL_UART_Transmit                                 objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+                                                  objdir-CWLITEARM/stm32f3_hal.o
+HardFault_Handler                                 objdir-CWLITEARM/stm32f3_startup.o
+MemManage_Handler                                 objdir-CWLITEARM/stm32f3_startup.o
+NMI_Handler                                       objdir-CWLITEARM/stm32f3_startup.o
+PendSV_Handler                                    objdir-CWLITEARM/stm32f3_startup.o
+Rcon                                              objdir-CWLITEARM/aes.o
+Reset_Handler                                     objdir-CWLITEARM/stm32f3_startup.o
+SVC_Handler                                       objdir-CWLITEARM/stm32f3_startup.o
+SysTick_Handler                                   objdir-CWLITEARM/stm32f3_startup.o
+SystemCoreClock                                   objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+SystemInit                                        objdir-CWLITEARM/stm32f3_startup.o
+UART_CheckIdleState                               objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+UART_SetConfig                                    objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+UART_WaitOnFlagUntilTimeout                       objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+UartHandle                                        objdir-CWLITEARM/stm32f3_hal.o
+UsageFault_Handler                                objdir-CWLITEARM/stm32f3_startup.o
+__bss_end__                                       f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__bss_start__                                     f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__call_exitprocs                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+__deregister_frame_info                           f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__dso_handle                                      f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__errno                                           f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                                                  objdir-CWLITEARM/stm32f3_sysmem.o
+__init_array_end                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__init_array_start                                f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__libc_fini_array                                 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__libc_init_array                                 f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                                                  objdir-CWLITEARM/stm32f3_startup.o
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+__preinit_array_end                               f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__preinit_array_start                             f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+__register_frame_info                             f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crtbegin.o
+__sf_fake_stderr                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdin                                   f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__sf_fake_stdout                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+__stack                                           f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_ebss                                             objdir-CWLITEARM/stm32f3_startup.o
+_edata                                            objdir-CWLITEARM/stm32f3_startup.o
+_estack                                           objdir-CWLITEARM/stm32f3_startup.o
+_exit                                             f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+_fini                                             f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+_global_impure_ptr                                f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+_impure_ptr                                       f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+_init                                             f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m/nofp/crti.o
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+_mainCRTStartup                                   f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_sbrk                                             objdir-CWLITEARM/stm32f3_sysmem.o
+_sbss                                             objdir-CWLITEARM/stm32f3_startup.o
+_sdata                                            objdir-CWLITEARM/stm32f3_startup.o
+_sidata                                           objdir-CWLITEARM/stm32f3_startup.o
+_stack_init                                       f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+_start                                            f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+aes_indep_enc                                     objdir-CWLITEARM/aes-independant.o
+aes_indep_enc_posttrigger                         objdir-CWLITEARM/aes-independant.o
+aes_indep_enc_pretrigger                          objdir-CWLITEARM/aes-independant.o
+aes_indep_init                                    objdir-CWLITEARM/aes-independant.o
+aes_indep_key                                     objdir-CWLITEARM/aes-independant.o
+aes_indep_mask                                    objdir-CWLITEARM/aes-independant.o
+atexit                                            f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+change_err_led                                    objdir-CWLITEARM/stm32f3_hal.o
+change_ok_led                                     objdir-CWLITEARM/stm32f3_hal.o
+check_version                                     objdir-CWLITEARM/simpleserial.o
+enckey                                            objdir-CWLITEARM/aes-independant.o
+end                                               objdir-CWLITEARM/stm32f3_sysmem.o
+exit                                              f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+g_pfnVectors                                      objdir-CWLITEARM/stm32f3_startup.o
+get_pt                                            objdir-CWLITEARM/mask-xor2.o
+getch                                             objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/simpleserial.o
+hal_sys_tick                                      objdir-CWLITEARM/stm32f3_hal_lowlevel.o
+hardware_init_hook                                f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+hex_decode                                        objdir-CWLITEARM/simpleserial.o
+init_uart                                         objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+main                                              objdir-CWLITEARM/mask-xor2.o
+                                                  objdir-CWLITEARM/stm32f3_startup.o
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+memset                                            f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                                                  objdir-CWLITEARM/mask-xor2.o
+                                                  f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+platform_init                                     objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+putch                                             objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/simpleserial.o
+rsbox                                             objdir-CWLITEARM/aes.o
+sbox                                              objdir-CWLITEARM/aes.o
+simpleserial_addcmd                               objdir-CWLITEARM/simpleserial.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+simpleserial_addcmd_flags                         objdir-CWLITEARM/simpleserial.o
+simpleserial_get                                  objdir-CWLITEARM/simpleserial.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+simpleserial_init                                 objdir-CWLITEARM/simpleserial.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+simpleserial_put                                  objdir-CWLITEARM/simpleserial.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+software_init_hook                                f:/programs/chipwhisperer5_64/cw/home/portable/armgcc/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ss_crc                                            objdir-CWLITEARM/simpleserial.o
+ss_get_commands                                   objdir-CWLITEARM/simpleserial.o
+ss_num_commands                                   objdir-CWLITEARM/simpleserial.o
+trigger_high                                      objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+trigger_low                                       objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+trigger_setup                                     objdir-CWLITEARM/stm32f3_hal.o
+                                                  objdir-CWLITEARM/mask-xor2.o
+uwTick                                            objdir-CWLITEARM/stm32f3_hal_lowlevel.o
